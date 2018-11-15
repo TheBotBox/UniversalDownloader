@@ -8,7 +8,6 @@ Universal Java Based API for android for downloading media for various social me
 **[Implementation](#implementation)**   
 **[API Usage](#api-usage)**  
 **[To-dos](#to-dos)**   
-**[Get It On Play Store](#get-it-on-play-store)**    
 **[Credits](#credits)**   
 **[License](#license)**    
 
