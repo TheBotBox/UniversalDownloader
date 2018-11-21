@@ -12,6 +12,16 @@ Universal Java Based API for android for downloading media for various social me
 **[License](#license)**    
 
 
+# Features   
+Easy API for downloading images & videos for various social media platforms.  
+As of now, API can be used for downloading from   
+* Instagram
+* Facebook
+* Tumblr
+* Pinterest  
+
+Will keeping adding new platforms for downloading media.
+
 # Credits  
 Downlad Icon in Banner is made by <a href="https://www.flaticon.com/authors/itim2101" title="itim2101">itim2101</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
 
