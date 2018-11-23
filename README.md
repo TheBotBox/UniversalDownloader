@@ -5,7 +5,7 @@ Universal Java Based API for android for downloading media for various social me
 
 
 ```diff
-- THIS API IS STILL IN DEVELOPMENT, PLEASE MIND DRASTIC CHANGES IN COMING RELEASES.
+- THIS API IS STILL IN DEVELOPMENT, PLEASE MIND DRASTIC CHANGES IN UPCOMING RELEASES.
 ```
 
 #  Contents 
