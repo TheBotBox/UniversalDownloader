@@ -3,6 +3,11 @@ Universal Java Based API for android for downloading media for various social me
 
 ![universal downloader-feature-graphic 1](https://user-images.githubusercontent.com/41512314/48570611-b935a900-e92a-11e8-9ced-64b1063d2bbe.png)  
 
+
+```diff
+- THIS API IS STILL IN DEVELOPMENT, PLEASE MIND DRASTIC CHANGES IN COMING RELEASES.
+```
+
 #  Contents 
 **[Features](#features)**  
 **[Implementation](#implementation)**   
